@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\UPIICSA\TERCER SEMESTRE\F.POO\Discografia\bin\Debug\netcoreapp3.1\Discografia.exe
+C:\Users\hp\Desktop\UPIICSA\TERCER SEMESTRE\F.POO\Discografia\bin\Debug\netcoreapp3.1\Discografia.deps.json
+C:\Users\hp\Desktop\UPIICSA\TERCER SEMESTRE\F.POO\Discografia\bin\Debug\netcoreapp3.1\Discografia.runtimeconfig.json
+C:\Users\hp\Desktop\UPIICSA\TERCER SEMESTRE\F.POO\Discografia\bin\Debug\netcoreapp3.1\Discografia.runtimeconfig.dev.json
+C:\Users\hp\Desktop\UPIICSA\TERCER SEMESTRE\F.POO\Discografia\bin\Debug\netcoreapp3.1\Discografia.dll
+C:\Users\hp\Desktop\UPIICSA\TERCER SEMESTRE\F.POO\Discografia\bin\Debug\netcoreapp3.1\Discografia.pdb
+C:\Users\hp\Desktop\UPIICSA\TERCER SEMESTRE\F.POO\Discografia\obj\Debug\netcoreapp3.1\Discografia.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\UPIICSA\TERCER SEMESTRE\F.POO\Discografia\obj\Debug\netcoreapp3.1\Discografia.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\UPIICSA\TERCER SEMESTRE\F.POO\Discografia\obj\Debug\netcoreapp3.1\Discografia.AssemblyInfo.cs
+C:\Users\hp\Desktop\UPIICSA\TERCER SEMESTRE\F.POO\Discografia\obj\Debug\netcoreapp3.1\Discografia.dll
+C:\Users\hp\Desktop\UPIICSA\TERCER SEMESTRE\F.POO\Discografia\obj\Debug\netcoreapp3.1\Discografia.pdb
